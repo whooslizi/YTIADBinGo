@@ -1,0 +1,2 @@
+# YTIADBinGo
+YesThisisADiscordBot in Go?
